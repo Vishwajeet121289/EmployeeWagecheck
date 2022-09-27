@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\bin\Debug\net6.0\UC1_checkEmployee.exe
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\bin\Debug\net6.0\UC1_checkEmployee.deps.json
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\bin\Debug\net6.0\UC1_checkEmployee.runtimeconfig.json
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\bin\Debug\net6.0\UC1_checkEmployee.dll
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\bin\Debug\net6.0\UC1_checkEmployee.pdb
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.AssemblyInfo.cs
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.dll
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\refint\UC1_checkEmployee.dll
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.pdb
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\UC1_checkEmployee.genruntimeconfig.cache
+C:\Users\DELL\source\repos\UC1_checkEmployeeSol\UC1_checkEmployee\obj\Debug\net6.0\ref\UC1_checkEmployee.dll
